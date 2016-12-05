@@ -1,0 +1,16 @@
+{
+  "name": "Jenner",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "react": "15.3.2",
+    "react-native": "0.34.1",
+    "react-native-html-parser": "0.0.3",
+    "react-native-swipeout": "^2.0.12",
+    "react-native-vector-icons": "^2.1.0"
+  }
+}
